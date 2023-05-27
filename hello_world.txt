@@ -1,0 +1,3 @@
+Hello!
+
+This is my first repo of many during my time going through The Odin Project!
